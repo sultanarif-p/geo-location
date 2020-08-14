@@ -1,0 +1,15 @@
+{
+  "name": "location",
+  "version": "1.0.0",
+  "description": "best ever",
+  "main": "index.html",
+  "scripts": {
+    "test": "run",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "sultan the developer",
+  "license": "ISC"
+}
